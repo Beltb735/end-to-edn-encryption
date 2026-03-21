@@ -1,5 +1,8 @@
 # end-to-edn-encryption
-## 🚀 How to Use
+
+In modern networking, "Cleartext" (plain text) is a massive security risk. This project implements a Symmetric Key Encryption system using the AES (Advanced Encryption Standard) algorithm. It is designed to simulate a secure communication bridge where data is encrypted locally before being transmitted over an untrusted network.
+
+##  How to Use
 1. **Install Dependencies:** `pip install cryptography`
 2. **Setup:** Ensure both `sender.py` and `receiver.py` share the same 32-byte Fernet key.
 3. **Run Sender:** Execute `python sender.py`, enter your message, and copy the output.
